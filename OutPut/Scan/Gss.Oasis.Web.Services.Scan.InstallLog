@@ -1,0 +1,277 @@
+﻿Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Service Gss.Oasis.Web.Services.Scan has been successfully installed.
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Committing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Uninstalling assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Removing EventLog source Gss.Oasis.Web.Services.Scan.
+Service Gss.Oasis.Web.Services.Scan is being removed from the system...
+Service Gss.Oasis.Web.Services.Scan was successfully removed from the system.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Service Gss.Oasis.Web.Services.Scan has been successfully installed.
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Committing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Uninstalling assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Removing EventLog source Gss.Oasis.Web.Services.Scan.
+Service Gss.Oasis.Web.Services.Scan is being removed from the system...
+Service Gss.Oasis.Web.Services.Scan was successfully removed from the system.
+Attempt to stop service Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Service Gss.Oasis.Web.Services.Scan has been successfully installed.
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Committing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Rolling back assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Restoring event log to previous state for source Gss.Oasis.Web.Services.Scan.
+Installing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe
+Installing service Gss.Oasis.Web.Services.Scan...
+Service Gss.Oasis.Web.Services.Scan has been successfully installed.
+Creating EventLog source Gss.Oasis.Web.Services.Scan in log Application...
+Committing assembly 'D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog
+   assemblypath = D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe

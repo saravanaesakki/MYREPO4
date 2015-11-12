@@ -1,0 +1,1 @@
+plink.exe -ssh "192.168.2.95" -l root -pw Welcome100 -m CreateFile.txt -t 

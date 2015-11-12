@@ -1,0 +1,2 @@
+Error in Authentication Service on New() - System.NullReferenceException: Object reference not set to an instance of an object.
+   at Gss.Oasis.Web.Services.Scan.ScanService..ctor() in D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\Gss.Oasis.Web.Services.Scan\ScanService.vb:line 28

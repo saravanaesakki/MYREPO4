@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Transaction\Gss.Oasis.Web.Services.Transaction.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Transaction\Gss.Oasis.Web.Services.Transaction.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Transaction\Gss.Oasis.Web.Services.Transaction.exe
+Installing service Gss.Oasis.TransactionService...
+Service Gss.Oasis.TransactionService has been successfully installed.
+Creating EventLog source Gss.Oasis.TransactionService in log Application...
+Committing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Transaction\Gss.Oasis.Web.Services.Transaction.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Transaction\Gss.Oasis.Web.Services.Transaction.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Transaction\Gss.Oasis.Web.Services.Transaction.exe

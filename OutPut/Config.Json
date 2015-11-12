@@ -1,0 +1,37 @@
+{
+    "Cassandra": {
+        "Server": "192.168.2.221",
+        "Port": "9042",
+	 "KeySpace":"cnf_cas"
+    },
+    "Services": {
+        "RootPath": "D:",
+        "Authentication": {
+            "Port": "6024",
+            "Path": ""
+        },
+        "Data": {
+            "Port": "6025",
+            "Path": ""
+        },
+"Resource": {
+            "Port": "6026",
+            "Path": ""
+        },
+"UI": {
+            "Port": "6027",
+            "Path": ""
+        },
+"Tools": {
+            "Port": "6028",
+            "Path": ""
+        },
+"Scan": {
+            "Port": "6029",
+            "Path": ""
+        },
+        "DeploymentManager": {
+            "Port": "3001"
+        }
+    }
+}

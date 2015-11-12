@@ -1,0 +1,162 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan1.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.exe assembly's progress.
+The file is located at D:\Oasis6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Scan\Gss.Oasis.Web.Services.Scan.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.

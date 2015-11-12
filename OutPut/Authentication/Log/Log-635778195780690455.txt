@@ -1,0 +1,7 @@
+Error in Authentication Service OnStart function - Cassandra.NoHostAvailableException: None of the hosts tried for query are available (tried: 192.168.2.221:9042)
+   at Cassandra.ControlConnection.Connect(Boolean firstTime)
+   at Cassandra.ControlConnection.Init()
+   at Cassandra.Cluster.Init()
+   at Cassandra.Cluster.Connect(String keyspace)
+   at Gss.Oasis.Web.Services.Helper.InstanceHelper.CreateInstances(Config objConfig, String[] FilterSessions) in D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\Gss.Oasis.Web.Services.InstanceHelper\Gss.Oasis.Web.Services.InstanceHelper\InstanceHelper.vb:line 21
+   at Gss.Oasis.Web.Services.Authentication.AuthenticationService.OnStart(String[] args) in D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\Gss.Oasis.Web.Services.Authentication\AuthenticationService.vb:line 55

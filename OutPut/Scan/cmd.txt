@@ -1,0 +1,3 @@
+cd /home
+ docker build -t core_clt_usr_cas_kvbTest -f /home/core_clt_usr_cas/Dockerfile . 
+docker run -i  -p 9043:9042 -p  81:80  --name=core_clt_usr_cas_kvbTest1 core_clt_usr_cas_kvbTest1

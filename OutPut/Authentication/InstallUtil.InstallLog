@@ -1,0 +1,69 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+An exception occurred during the Install phase.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe assembly's progress.
+The file is located at D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

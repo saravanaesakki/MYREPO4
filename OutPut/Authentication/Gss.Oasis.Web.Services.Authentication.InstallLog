@@ -1,0 +1,66 @@
+﻿Installing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Installing service Gss.Oasis.AuthenticationService...
+Creating EventLog source Gss.Oasis.AuthenticationService in log Application...
+Rolling back assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Restoring event log to previous state for source Gss.Oasis.AuthenticationService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Installing service Gss.Oasis.AuthenticationService...
+Creating EventLog source Gss.Oasis.AuthenticationService in log Application...
+Rolling back assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Restoring event log to previous state for source Gss.Oasis.AuthenticationService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Installing service Gss.Oasis.AuthenticationService...
+Service Gss.Oasis.AuthenticationService has been successfully installed.
+Creating EventLog source Gss.Oasis.AuthenticationService in log Application...
+Committing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Uninstalling assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Removing EventLog source Gss.Oasis.AuthenticationService.
+Service Gss.Oasis.AuthenticationService is being removed from the system...
+Service Gss.Oasis.AuthenticationService was successfully removed from the system.
+Installing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe
+Installing service Gss.Oasis.AuthenticationService...
+Service Gss.Oasis.AuthenticationService has been successfully installed.
+Creating EventLog source Gss.Oasis.AuthenticationService in log Application...
+Committing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Authentication\Gss.Oasis.Web.Services.Authentication.exe

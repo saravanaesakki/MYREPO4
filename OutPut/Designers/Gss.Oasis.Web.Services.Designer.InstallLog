@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Designers\Gss.Oasis.Web.Services.Designer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Designers\Gss.Oasis.Web.Services.Designer.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Designers\Gss.Oasis.Web.Services.Designer.exe
+Installing service Gss.Oasis.ToolsService...
+Service Gss.Oasis.ToolsService has been successfully installed.
+Creating EventLog source Gss.Oasis.ToolsService in log Application...
+Committing assembly 'D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Designers\Gss.Oasis.Web.Services.Designer.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Designers\Gss.Oasis.Web.Services.Designer.InstallLog
+   assemblypath = D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\OutPut\Designers\Gss.Oasis.Web.Services.Designer.exe

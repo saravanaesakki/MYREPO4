@@ -1,0 +1,22 @@
+Error in Authentication Service OnStart function - NHibernate.HibernateException: Could not create the driver from NHibernate.Driver.NpgsqlDriver. ---> System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentException: Unable to find the requested .Net Framework Data Provider.  It may not be installed.
+   at System.Data.Common.DbProviderFactories.GetFactory(String providerInvariantName)
+   at NHibernate.Driver.ReflectionBasedDriver..ctor(String providerInvariantName, String driverAssemblyName, String connectionTypeName, String commandTypeName)
+   at NHibernate.Driver.NpgsqlDriver..ctor()
+   --- End of inner exception stack trace ---
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at NHibernate.Bytecode.ActivatorObjectsFactory.CreateInstance(Type type)
+   at NHibernate.Connection.ConnectionProvider.ConfigureDriver(IDictionary`2 settings)
+   --- End of inner exception stack trace ---
+   at NHibernate.Connection.ConnectionProvider.ConfigureDriver(IDictionary`2 settings)
+   at NHibernate.Connection.ConnectionProvider.Configure(IDictionary`2 settings)
+   at NHibernate.Connection.ConnectionProviderFactory.NewConnectionProvider(IDictionary`2 settings)
+   at NHibernate.Cfg.SettingsFactory.BuildSettings(IDictionary`2 properties)
+   at NHibernate.Cfg.Configuration.BuildSettings()
+   at NHibernate.Cfg.Configuration.BuildSessionFactory()
+   at Gss.Oasis.Web.Services.Helper.InstanceHelper.CreateNhiberNateSessions(ISession cnfSession) in D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\Gss.Oasis.Web.Services.InstanceHelper\Gss.Oasis.Web.Services.InstanceHelper\InstanceHelper.vb:line 71
+   at Gss.Oasis.Web.Services.Helper.InstanceHelper.CreateInstances(Config objConfig, String[] FilterSessions) in D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\Gss.Oasis.Web.Services.InstanceHelper\Gss.Oasis.Web.Services.InstanceHelper\InstanceHelper.vb:line 41
+   at Gss.Oasis.Web.Services.Transaction.TransactionService.OnContinue() in D:\OASIS6.0_SVN\Development\Web-Server\Gss.Oasis.Web.Services\Gss.Oasis.Web.Services.Transaction\TransactionService.vb:line 59

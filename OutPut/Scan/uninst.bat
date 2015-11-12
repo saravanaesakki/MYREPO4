@@ -1,0 +1,1 @@
+Gss.Oasis.Web.Services.Scan.exe --uninstall /u
